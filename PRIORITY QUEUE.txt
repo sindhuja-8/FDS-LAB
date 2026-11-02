@@ -1,0 +1,3 @@
+Output:
+1. 2 dequeued from queue
+2. Top element is 3
